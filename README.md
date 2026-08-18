@@ -161,16 +161,6 @@ Marketing landing page built with a modern React/TypeScript stack.
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoAOttolini&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 Open to interesting problems in AI engineering and full-stack product work.
