@@ -140,20 +140,13 @@ Retrieval-augmented generation pipeline for querying PDF documents with an LLM. 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 **[Scanqodex](https://scanqodex.com/)**
 
 Full event-management SaaS: ticketing, secure QR access, POS and cashless payments, anti-fraud QR
 rotation, real-time sales/access reporting. Next.js, React, TypeScript, Supabase, PostgreSQL,
 Tailwind CSS.
-
-</td>
-<td width="50%" valign="top">
-
-**[beatpass-landing](https://github.com/SantiagoAOttolini/beatpass-landing)**
-
-Marketing landing page built with a modern React/TypeScript stack.
 
 </td>
 </tr>
